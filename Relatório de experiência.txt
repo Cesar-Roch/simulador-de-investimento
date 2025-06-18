@@ -1,0 +1,5 @@
+Desenvolver o simulador de investimentos foi uma excelente forma de aplicar conceitos de juros compostos e rendimento com dividendos. No Excel, utilizei fórmulas como =FV() e construí tabelas automáticas para simular diferentes cenários.
+
+Tive um desafio ao criar gráficos dinâmicos com base em variáveis alteradas pelo usuário, mas consegui resolver usando tabelas nomeadas e referências dinâmicas.
+
+O uso do GitHub ajudou na organização do projeto e na documentação do processo. Também criei o README com os objetivos, imagens e links úteis.
