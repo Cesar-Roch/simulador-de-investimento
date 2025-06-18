@@ -29,18 +29,11 @@ Ao concluir este projeto, fui capaz de:
 
 - `simulador-investimentos.xlsx`: planilha com fórmulas automatizadas
 - `relatorio-experiencia.txt`: reflexão pessoal sobre o processo
-- `images/`: capturas de tela da planilha e gráficos gerados
+- `images/`: CR_Investe_banner
 
 ---
 
-## 📸 Capturas de Tela
 
-Abaixo algumas imagens da interface da planilha:
-
-- 📈 ![Gráfico de rendimento](./images/grafico-rendimento.png)
-- 📊 ![Simulador Excel](./images/tela-simulador.png)
-
----
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -51,5 +44,5 @@ Abaixo algumas imagens da interface da planilha:
 ---
 
 ## ✍️ Autor
-
+https://www.linkedin.com/in/cesarochadeluna
 Cesar Rocha
